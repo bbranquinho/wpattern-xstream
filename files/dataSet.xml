@@ -1,0 +1,18 @@
+<DataSetBean>
+  <records>
+    <org.wpattern.xstream.beans.RecordBean>
+      <firstName>First name 1368228833305</firstName>
+      <lastName>Last name 1368228833305</lastName>
+      <age>31</age>
+      <address>Address 1368228833305</address>
+      <registerDate>2013-05-10 23:33:53.305 UTC</registerDate>
+    </org.wpattern.xstream.beans.RecordBean>
+    <org.wpattern.xstream.beans.RecordBean>
+      <firstName>First name 1368286016874</firstName>
+      <lastName>Last name 1368286016874</lastName>
+      <age>25</age>
+      <address>Address 1368286016874</address>
+      <registerDate>2013-05-11 15:26:59.206 UTC</registerDate>
+    </org.wpattern.xstream.beans.RecordBean>
+  </records>
+</DataSetBean>
